@@ -1,0 +1,91 @@
+{
+    "parameter sweep": {
+        "options": {
+            "restore parameter values after run": "false",
+            "simulation type": "Transient",
+            "skip existing combinations": "true",
+            "start active solver": "true"
+        },
+        "sequences": {
+            "Sequence 1": [
+                {
+                    "from": "5.8",
+                    "step width": "0.2",
+                    "to": "8",
+                    "type": "linear",
+                    "varname": "lpatch"
+                },
+                {
+                    "enabled": "false",
+                    "index": 1
+                }
+            ],
+            "Sequence 2": [
+                {
+                    "from": "8.4",
+                    "step width": "0.4",
+                    "to": "12",
+                    "type": "linear",
+                    "varname": "wpatch"
+                },
+                {
+                    "enabled": "false",
+                    "index": 2
+                }
+            ],
+            "Sequence 3": [
+                {
+                    "from": "1",
+                    "step width": "0.4",
+                    "to": "5",
+                    "type": "linear",
+                    "varname": "hg"
+                },
+                {
+                    "enabled": "false",
+                    "index": 3
+                }
+            ],
+            "Sequence 4": [
+                {
+                    "from": "0",
+                    "step width": "0.5",
+                    "to": "4",
+                    "type": "linear",
+                    "varname": "wslot"
+                },
+                {
+                    "from": "0",
+                    "step width": "0.5",
+                    "to": "4",
+                    "type": "linear",
+                    "varname": "fslot"
+                },
+                {
+                    "enabled": "false",
+                    "index": 4
+                }
+            ],
+            "Sequence 5": [
+                {
+                    "from": "0.5",
+                    "step width": "0.5",
+                    "to": "3.5",
+                    "type": "linear",
+                    "varname": "r1"
+                },
+                {
+                    "from": "1",
+                    "step width": "0.5",
+                    "to": "3.5",
+                    "type": "linear",
+                    "varname": "r2"
+                },
+                {
+                    "index": 5
+                }
+            ]
+        },
+        "version": 1
+    }
+}

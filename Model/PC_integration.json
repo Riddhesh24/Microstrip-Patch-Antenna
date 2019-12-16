@@ -1,0 +1,90 @@
+{
+   "inputVariables": [
+      {
+         "name": "lsub",
+         "type": "float",
+         "value": 13.0
+      },
+      {
+         "name": "wsub",
+         "type": "float",
+         "value": 13.0
+      },
+      {
+         "name": "t",
+         "type": "float",
+         "value": 1.5
+      },
+      {
+         "name": "hg",
+         "type": "float",
+         "value": 2.2
+      },
+      {
+         "name": "fh",
+         "type": "float",
+         "value": 4.6
+      },
+      {
+         "name": "fw",
+         "type": "float",
+         "value": 2.8
+      },
+      {
+         "name": "lpatch",
+         "type": "float",
+         "value": 8.0
+      },
+      {
+         "name": "wpatch",
+         "type": "float",
+         "value": 12.0
+      },
+      {
+         "name": "fslot",
+         "type": "float",
+         "value": 2.0
+      },
+      {
+         "name": "wslot",
+         "type": "float",
+         "value": 1.0
+      },
+      {
+         "name": "Hw",
+         "type": "float",
+         "value": 0.5
+      },
+      {
+         "name": "hellipse",
+         "type": "float",
+         "value": 3.0
+      },
+      {
+         "name": "we",
+         "type": "float",
+         "value": 0.5
+      },
+      {
+         "name": "r1",
+         "type": "float",
+         "value": 0.25
+      },
+      {
+         "name": "r2",
+         "type": "float",
+         "value": 0.5
+      },
+      {
+         "name": "Hss",
+         "type": "float",
+         "value": 7.0
+      },
+      {
+         "name": "Wss",
+         "type": "float",
+         "value": 3.0
+      }
+   ],
+   "outputVariables": []
+}

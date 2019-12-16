@@ -1,0 +1,90 @@
+{
+    "parameters": [
+        {
+            "expr": "13",
+            "name": "lsub",
+            "value": "13"
+        },
+        {
+            "expr": "13",
+            "name": "wsub",
+            "value": "13"
+        },
+        {
+            "expr": "1.5",
+            "name": "t",
+            "value": "1.5"
+        },
+        {
+            "expr": "2.2",
+            "name": "hg",
+            "value": "2.2"
+        },
+        {
+            "expr": "4.6",
+            "name": "fh",
+            "value": "4.6"
+        },
+        {
+            "expr": "2.8",
+            "name": "fw",
+            "value": "2.8"
+        },
+        {
+            "expr": "8",
+            "name": "lpatch",
+            "value": "8"
+        },
+        {
+            "expr": "12",
+            "name": "wpatch",
+            "value": "12"
+        },
+        {
+            "expr": "2",
+            "name": "fslot",
+            "value": "2"
+        },
+        {
+            "expr": "1",
+            "name": "wslot",
+            "value": "1"
+        },
+        {
+            "expr": "0.5",
+            "name": "Hw",
+            "value": "0.5"
+        },
+        {
+            "expr": "3",
+            "name": "hellipse",
+            "value": "3"
+        },
+        {
+            "expr": "0.5",
+            "name": "we",
+            "value": "0.5"
+        },
+        {
+            "expr": "0.25",
+            "name": "r1",
+            "value": "0.25"
+        },
+        {
+            "expr": "0.5",
+            "name": "r2",
+            "value": "0.5"
+        },
+        {
+            "expr": "7",
+            "name": "Hss",
+            "value": "7"
+        },
+        {
+            "expr": "3",
+            "name": "Wss",
+            "value": "3"
+        }
+    ],
+    "version": 1
+}
